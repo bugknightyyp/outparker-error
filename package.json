@@ -1,0 +1,23 @@
+{
+  "name": "outparker-error",
+  "version": "1.0.0",
+  "description": "error code and info for outparker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugknightyyp/outparker-error.git"
+  },
+  "keywords": [
+    "error",
+    "outparker"
+  ],
+  "author": "bugknightyyp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugknightyyp/outparker-error/issues"
+  },
+  "homepage": "https://github.com/bugknightyyp/outparker-error"
+}
